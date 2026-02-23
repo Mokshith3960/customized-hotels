@@ -142,6 +142,96 @@ const hotels = [
         name: "Hamilton Cocktail Bar",
         address: "2, behind HDFC Bank, Doddanakundi Industrial Area 2, Seetharampalya, Hoodi, Bengaluru, Karnataka 560048",
         map: "https://www.google.com/maps?aep=1&biw=1536&bih=730&sca_esv=6a3dc1d72e9664c9&sxsrf=ANbL-n66tYcgWiWeojjuWSTjZJi9H7x7wA:1771226046292&kgmid=/g/11m67hlvmz&shndl=30&kgs=eeeb3da8a56498fb&shem=shrtsdl&um=1&ie=UTF-8&fb=1&gl=in&sa=X&geocode=KVU3gLV5Ea47MT8gCc3cZdBw&daddr=2,+behind+HDFC+Bank,+Doddanakundi+Industrial+Area+2,+Seetharampalya,+Hoodi,+Bengaluru,+Karnataka+560048"
+    },
+    {
+        image: "assets/img/hotels/black-pearl-barbeque-restaurant/1.jpg",
+        category: "Buffet restaurant",
+        rating: "4.3 (38k)",
+        link: "https://share.google/7Ci8cAMFa3VCU4ic2",
+        name: "Black Pearl Barbeque Restaurant",
+        address: "Lagoto Building, 7, Swami Building, 6th, Outer Ring Rd, Kadubeesanahalli, Marathahalli, Bengaluru, Karnataka 560103",
+        map: "https://www.google.com/maps?aep=1&biw=1536&bih=730&sca_esv=6a3dc1d72e9664c9&sxsrf=ANbL-n7UT2-xkU98M7dv9vTZdudnyyYpwA:1771226064975&kgmid=/g/11cn2m4zmz&shndl=30&kgs=8e3152bc732cddb1&shem=shrtsdl&um=1&ie=UTF-8&fb=1&gl=in&sa=X&geocode=KX0EnxWyE647MZZMcBQWlFAa&daddr=Lagoto+Building,+7,+Swami+Building,+6th,+Outer+Ring+Rd,+Kadubeesanahalli,+Marathahalli,+Bengaluru,+Karnataka+560103"
+    },
+    {
+        image: "assets/img/hotels/hoot-craftworks-2.0/1.jpg",
+        category: "Brewery",
+        rating: "4.2 (22k)",
+        link: "https://share.google/fmfURdOomvJTO6gFZ",
+        name: "Hoot Craftworks 2.0",
+        address: "Block 2, Village, Varthur, BBMP, 2034/69, Ambalipura - Sarjapur Rd, Kaikondrahalli, Bengaluru, Karnataka 560035",
+        map: "https://www.google.com/maps?aep=1&sca_esv=6a3dc1d72e9664c9&sxsrf=ANbL-n4pFxXbQI8mpiYXGtJSTsAJy7ee3Q:1771842655612&biw=1536&bih=730&dpr=1.25&um=1&ie=UTF-8&fb=1&gl=in&sa=X&geocode=Kafj_388E647Mdwrbug8SlgJ&daddr=Block+2,+Village,+Varthur,+BBMP,+2034/69,+Ambalipura+-+Sarjapur+Rd,+Kaikondrahalli,+Bengaluru,+Karnataka+560035"
+    },
+    {
+        image: "assets/img/hotels/big-pitcher-indiranagar/1.jpg",
+        category: "Brewery",
+        rating: "4.4 (30k)",
+        link: "https://share.google/OuOkcaKICPDxbo753",
+        name: "Big Pitcher Indiranagar",
+        address: "Ward No.88, L R Arcade, No.4121, HAL Old Airport Rd, next to The Leela Palace, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008",
+        map: "https://www.google.com/maps?aep=1&biw=1536&bih=730&sca_esv=6a3dc1d72e9664c9&sxsrf=ANbL-n7zoNYLUNN54LUo98VOi-avoiJprw:1771226101395&kgmid=/g/1ptxfyn30&shndl=30&kgs=08f6bc8912adab6b&shem=shrtsdl&um=1&ie=UTF-8&fb=1&gl=in&sa=X&geocode=KZmBcsQFFK47MUNtNPUbAN3D&daddr=Ward+No.88,+L+R+Arcade,+No.4121,+HAL+Old+Airport+Rd,+next+to+The+Leela+Palace,+HAL+2nd+Stage,+Indiranagar,+Bengaluru,+Karnataka+560008"
+    },
+    {
+        image: "assets/img/hotels/triple-eight-rooftop/1.jpg",
+        category: "Gastropub",
+        rating: "4.1 (4.4k)",
+        link: "https://share.google/sFHl2SkY0rAcaL09S",
+        name: "TRIPLE EIGHT Rooftop Bar & Kitchen",
+        address: "Devarachikkanahalli main road, Bannerghatta Rd, above Akshara eye hospital, Thayappa Garden, Ranka Colony, Bilekahalli, Bengaluru, Karnataka 560076",
+        map: "https://www.google.com/maps?aep=1&biw=1536&bih=730&sca_esv=6a3dc1d72e9664c9&sxsrf=ANbL-n5re9a2vNZcsYLRJ4eVyXgmkSr5VA:1771226122185&kgmid=/g/11hbk4jrb1&shndl=30&kgs=17048b396886fa2f&shem=shrtsdl&um=1&ie=UTF-8&fb=1&gl=in&sa=X&geocode=KRPEfT53Fq47Mboyy_LYes5d&daddr=Devarachikkanahalli+main+road,+Bannerghatta+Rd,+above+Akshara+eye+hospital,+Thayappa+Garden,+Ranka+Colony,+Bilekahalli,+Bengaluru,+Karnataka+560076"
+    },
+    {
+        image: "assets/img/hotels/tbc-sky-lounge-kadubisanahalli/1.jpg",
+        category: "Lounge",
+        rating: "4.3 (9.1k)",
+        link: "https://share.google/IFFs1aWRS5ioyioFU",
+        name: "TBC Sky Lounge - Kadubisanahalli",
+        address: "5th Floor, Berry's Hotel, 36/1, Marathahalli - Sarjapur Outer Ring Rd, opposite JP Morgan, Kadubeesanahalli, Bengaluru, Karnataka 560103",
+        map: "https://www.google.com/maps?aep=1&sca_esv=6a3dc1d72e9664c9&cs=1&kgmid=/g/11gwf8cd1r&shndl=30&kgs=05c93e207c5fbd5a&shem=shrtsdl&um=1&ie=UTF-8&fb=1&gl=in&sa=X&geocode=KTGqgHuxE647MTSD3OqLgcOG&daddr=5th+Floor,+Berry%27s+Hotel,+36/1,+Marathahalli+-+Sarjapur+Outer+Ring+Rd,+opposite+JP+Morgan,+Kadubeesanahalli,+Bengaluru,+Karnataka+560103"
+    },
+    {
+        image: "assets/img/hotels/cbd-central-bar-district/1.jpg",
+        category: "Bar & grill",
+        rating: "4.3 (623)",
+        link: "https://share.google/OSmUYkrBrlRgBeGzL",
+        name: "CBD Central Bar District",
+        address: "3, Church St, Shanthala Nagar, MSR, Bengaluru, Karnataka 560001",
+        map: "https://www.google.com/maps?aep=1&biw=1536&bih=730&sca_esv=6a3dc1d72e9664c9&sxsrf=ANbL-n6uMzrumOM5Jl1r_rm4yuKFY3tU2w:1771226156795&kgmid=/g/11x77sb421&shndl=30&kgs=19e6c78184dd7bdb&shem=shrtsdl&um=1&ie=UTF-8&fb=1&gl=in&sa=X&geocode=KdXoRXGqF647MUjw0sD2d7dh&daddr=3,+Church+St,+Shanthala+Nagar,+MSR,+Bengaluru,+Karnataka+560001"
+    },
+    {
+        image: "assets/img/hotels/armadq-gastro-pub/1.jpg",
+        category: "Pub",
+        rating: "4.3 (147)",
+        link: "https://share.google/Yc4jCR99PNz8KdSHh",
+        name: "Armadq Gastro Pub",
+        address: "3rd Floor, Sri Kote Ashirwad Towers No, 25/7, Outer Ring Rd, Doddanekundi, Mahadevapura, Bengaluru, Karnataka 560037",
+        map: "https://www.google.com/maps?aep=1&biw=1536&bih=730&sca_esv=6a3dc1d72e9664c9&sxsrf=ANbL-n63e69-y6WzFYmHSew8Sw6BtWZU8w:1771226173794&kgmid=/g/11ychc20dy&shndl=30&kgs=51509db72b15a481&shem=shrtsdl&um=1&ie=UTF-8&fb=1&gl=in&sa=X&geocode=KS2thq7xEa47MWonNAqlFPOo&daddr=3rd+Floor,+Sri+Kote+Ashirwad+Towers+No,+25/7,+Outer+Ring+Rd,+Doddanekundi,+Mahadevapura,+Bengaluru,+Karnataka+560037"
+    },
+    {
+        image: "assets/img/hotels/hashtag-88-pub-bar-kitchen/1.jpg",
+        category: "Pub",
+        rating: "4.5 (4.6k)",
+        link: "https://share.google/s7XfVt6zlZcvgLSpi",
+        name: "Hashtag 88 – Pub | Bar | Kitchen",
+        address: "4th Floor, above More Hypermarket, near Innovative Multiplex, Marathahalli Village, Marathahalli, Bengaluru, Karnataka 560037",
+        map: "https://www.google.com/maps?aep=1&biw=1536&bih=730&sca_esv=6a3dc1d72e9664c9&sxsrf=ANbL-n7Th98FPHFjARlpEReN_X8PiGRGgA:1771226188765&kgmid=/g/11tk4b_6k2&shndl=30&kgs=d8f86e5c554911e1&shem=shrtsdl&um=1&ie=UTF-8&fb=1&gl=in&sa=X&geocode=Kb1TrUnDE647MfRALWDHN0aA&daddr=4th+Floor,+above+More+Hypermarket,+near+Innovative+Multiplex,+Marathahalli+Village,+Marathahalli,+Bengaluru,+Karnataka+560037"
+    },
+    {
+        image: "assets/img/hotels/deck-of-brews-brewery-kitchen/1.jpg",
+        category: "Brewpub",
+        rating: "4.3 (3.6k)",
+        link: "https://share.google/OtpMixQ6f4mZozwRk",
+        name: "Deck of Brews- Brewery & Kitchenn",
+        address: "4th Floor, above More Hypermarket, near Innovative Multiplex, Marathahalli Village, Marathahalli, Bengaluru, Karnataka 560037",
+        map: "https://www.google.com/maps?aep=1&biw=1536&bih=730&sca_esv=6a3dc1d72e9664c9&sxsrf=ANbL-n5B6CGHYGcQYzhLYyvbI49UrrfOSA:1771226203859&kgmid=/g/11stdqtt6d&shndl=30&kgs=c074bfd772ebc49b&shem=shrtsdl&um=1&ie=UTF-8&fb=1&gl=in&sa=X&geocode=KT3blXBxE647MUtBC_3DJmhR&daddr=Gear+School+Rd,+Kaverappa+Layout,+Kadubeesanahalli,+Bengaluru,+Karnataka+560103"
+    },
+    {
+        image: "assets/img/hotels/iron-timber-lounge/1.jpg",
+        category: "Bar",
+        rating: "4.8 (182)",
+        link: "https://share.google/OQVzjUEL17qbHssGT",
+        name: "Iron & Timber Lounge",
+        address: "2nd Floor, BEML Layout, Brookefield, Bengaluru, Karnataka 560037",
+        map: "https://www.google.com/maps?aep=1&sca_esv=6a3dc1d72e9664c9&biw=1536&bih=730&sxsrf=ANbL-n5iKbOt2IqM8P7Bcimwh35ooySltw:1771225552376&kgmid=/g/11xnqs9h6g&shndl=30&kgs=47b5c092f524ac5d&shem=shrtsdl&um=1&ie=UTF-8&fb=1&gl=in&sa=X&geocode=KU-GhGgAE647Mdkb_6f29e9j&daddr=2nd+Floor,+BEML+Layout,+Brookefield,+Bengaluru,+Karnataka+560037"
     }
 ];
 const container = document.getElementById("hotelContainer");
